@@ -41,3 +41,23 @@ h2{
 {
     color: #0D4A92;
 }
+
+
+
+.bg-footer-custom
+{
+    background-color: #FFA234;
+}
+
+
+.bg-nav-custom
+{
+background-color: #638CBD;
+}
+
+
+
+.intro
+{
+       background: linear-gradient(90deg, rgba(57,108,167,1) 0%, rgba(177,213,255,1) 100%);
+}
