@@ -9,9 +9,9 @@ body{
 
 }
 
-
-
-
+.intro{
+    background: linear-gradient(#396CA7, #B1D5FF);
+}
 
 .logo{
     width: 50px;
