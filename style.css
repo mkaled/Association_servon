@@ -4,25 +4,35 @@ body{
    
 }
 
+/* css navbar */
+
 .navbar-text{
     font-size: 2em;
 
 }
 
+<<<<<<< HEAD
 .intro{
     background: linear-gradient(#396CA7, #B1D5FF);
 }
+=======
+
+.bg-nav-custom
+{
+background-color: #638CBD;
+}
+
+
+>>>>>>> 2ce07ba8798f1f1abee82a91901a69e39e1180f2
 
 .logo{
     width: 50px;
     height: 50px;
 }
 
-.logo2{
-    max-width: 100%;
-	height: auto;
-}
 
+
+/* css main */
 
 h1{
     color: #0D4A92;
@@ -34,10 +44,22 @@ h2{
     font-size: 1.5rem;
 }
 
-
-
-
-.title
+.intro
 {
-    color: #0D4A92;
+       background: linear-gradient(90deg, rgba(57,108,167,1) 0%, rgba(177,213,255,1) 100%);
+}
+
+.title-custom{
+    font-size: 2em
+    
+}
+
+
+
+
+/* css navbar */
+
+.bg-footer-custom
+{
+    background-color: #FFA234;
 }
