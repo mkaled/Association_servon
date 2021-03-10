@@ -54,7 +54,6 @@ h2{
 
 .title-custom{
     font-size: 2em
-    
 }
 
 
@@ -66,6 +65,17 @@ h2{
 .bg-footer-custom
 {
     background-color: #FFA234;
-   
-  
+}
+
+
+@media screen and (min-width: 1500px) {
+    /* Écriture du code CSS souhaité pour les appareils avec écran et dont la largeur minimale est de 1500px */
+    .wrapper{
+        width: 80%;
+    }
+
+    .bg-footer-custom{
+        width: 80%;
+    }
+
 }
