@@ -28,6 +28,15 @@ background-color: #638CBD;
 
 /* css main */
 
+/* main 100% pour le positionnment du footer en bas */
+.wrapper
+{
+    min-height: 100%;
+}
+
+
+
+
 h1{
     color: #0D4A92;
     font-size: 2rem;
@@ -51,9 +60,12 @@ h2{
 
 
 
-/* css navbar */
+/* css footer;
+*/
 
 .bg-footer-custom
 {
     background-color: #FFA234;
+   
+  
 }
