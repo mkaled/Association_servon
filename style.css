@@ -28,6 +28,15 @@ background-color: #638CBD;
 
 /* css main */
 
+/* main 100% pour le positionnment du footer en bas */
+.wrapper
+{
+    min-height: 100%;
+}
+
+
+
+
 h1{
     color: #0D4A92;
     font-size: 2rem;
@@ -45,15 +54,28 @@ h2{
 
 .title-custom{
     font-size: 2em
-    
 }
 
 
 
 
-/* css navbar */
+/* css footer;
+*/
 
 .bg-footer-custom
 {
     background-color: #FFA234;
+}
+
+
+@media screen and (min-width: 1500px) {
+    /* Écriture du code CSS souhaité pour les appareils avec écran et dont la largeur minimale est de 1500px */
+    .wrapper{
+        width: 80%;
+    }
+
+    .bg-footer-custom{
+        width: 80%;
+    }
+
 }
