@@ -48,6 +48,25 @@ h2{
     
 }
 
+.com{
+    
+    
+}
+
+.comcol {
+   display: flex;
+   flex-direction: column;
+   align-items: center;  
+  }
+
+
+.btn {
+    position: absolute;
+    bottom:   10px;      
+  }
+
+
+
 
 
 
