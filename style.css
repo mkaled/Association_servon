@@ -70,6 +70,11 @@ h2{
 
 @media screen and (min-width: 1500px) {
     /* Écriture du code CSS souhaité pour les appareils avec écran et dont la largeur minimale est de 1500px */
+    .topnav{
+        width: 80%;
+    padding: 0px;
+    }
+    
     .wrapper{
         width: 80%;
     }
