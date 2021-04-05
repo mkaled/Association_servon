@@ -27,6 +27,7 @@ background-color: #638CBD;
 .logoRs{
     width: 20px;
     height: 20px;
+    
 }
 
 /* css main */
@@ -76,7 +77,8 @@ h2{
 
 
   .formulaire {
-    padding-top: 3em ; 
+    padding-top: 3em ;
+    padding-bottom: 3em ;
     
   }
 
