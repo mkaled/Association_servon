@@ -64,13 +64,21 @@ h2{
   }
 
 
-.btn {
+.comcol > btn {
     position: absolute;
     bottom:   10px;      
   }
 
 
+  .formulaire {
+    padding-top: 3em ; 
+    
+  }
 
+  .btn-form {
+    padding-top: 1em ; 
+    
+  }
 
 
 
