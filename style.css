@@ -64,9 +64,11 @@ h2{
   }
 
 
-.comcol > btn {
+.btn-comcol {
     position: absolute;
-    bottom:   10px;      
+    bottom:   10px;   
+  
+
   }
 
 
